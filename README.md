@@ -46,7 +46,7 @@ Start server with:
 ```
     rails server -p 3001
 ```
-For the app to run and display messages, you need **[this]**(https://github.com/elisha2kyakpo1/hello_world_project_with_two_apps_react/pull/1) app. 
+For the app to run and display messages, you need **[this](https://github.com/elisha2kyakpo1/hello_world_project_with_two_apps_react/pull/1)** app. 
 
 At this time, you will be running two apps on the same machine (react app on http://localhost:3000). This way you have connected two apps.
 
