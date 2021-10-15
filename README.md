@@ -44,10 +44,13 @@ Message.create(greeting:"Your text here")
 Start server with:
 
 ```
-    rails server
+    rails server -p 3001
 ```
+For the app to run and display messages, you need [this](https://github.com/elisha2kyakpo1/hello_world_project_with_two_apps_react/pull/1) app. 
 
-Open `http://localhost:3000/` in your browser.
+At this time, you will be running two apps on the same machine (react app on http://localhost:3000). This way you have connected two apps.
+
+Open `http://localhost:3001/` in your browser.
 
 ## Author
 
